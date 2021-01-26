@@ -10,17 +10,18 @@ DS Delivery é uma aplicação full stack web e mobile construída durante a 2ª
 A aplicação consiste em um sistema de registro e entrega de pedidos. Os dados da solicitação do pedido são coletados via web e posteriormente os pedidos são entregues e confirmados no app mobile.
 
 ## Layout mobile
-![Mobile 1]() ![Mobile 2]() ![Mobile 3]()
+![Mobile 1](https://github.com/alinepazz/dsdeliver-sds2/blob/main/assets/mobile1.png) ![Mobile 2](https://github.com/alinepazz/dsdeliver-sds2/blob/main/assets/mobile2.png) 
+![Mobile 3](https://github.com/alinepazz/dsdeliver-sds2/blob/main/assets/mobile3.png)
 
 ## Layout web
-![Web 1]()
+![Web 1](https://github.com/alinepazz/dsdeliver-sds2/blob/main/assets/tela-principa.png)
 
-![Web 2]()
+![Web 2](https://github.com/alinepazz/dsdeliver-sds2/blob/main/assets/tela-pedido.png)
 
-![Web 3]()
+![Web 3](https://github.com/alinepazz/dsdeliver-sds2/blob/main/assets/mapa1.png)
 
 ## Modelo conceitual
-![Modelo Conceitual]()
+![Modelo Conceitual](https://github.com/alinepazz/dsdeliver-sds2/blob/main/assets/conceitual_1.png)
 
 # Tecnologias utilizadas
 ## Back end
